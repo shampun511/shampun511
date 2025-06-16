@@ -41,9 +41,9 @@
 
 ### 📂 Projects
 
-- 🔐 
-- 📦 
-- 📈 
+- 🧠 https://github.com/shampun511/bot_knowledgebase
+- 📦 https://github.com/shampun511/store_manager_bot1.git
+- 📈 https://github.com/shampun511/career-helper-bot-AI-.git
 
 ---
 
